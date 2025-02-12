@@ -6,12 +6,61 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeliu369" alt="zeliu369" /></a> </p>
 
 
-- 🔭 I’m currently working on [Machine-Learning-for-Building-Efficiency](https://github.com/ZeLiu369/Machine-Learning-for-Building-Efficiency)
+## Project List
 
-- 👯 I’m looking to collaborate on [VoiceTrans](https://github.com/ZeLiu369/VoiceTrans)
+### 🚀 ML/AI
 
-- 🤝 I’m looking for help with [Data-Visualization-Canadian-Aviation-Safety-Insights](https://github.com/ZeLiu369/Data-Visualization-Canadian-Aviation-Safety-Insights)
+- [**Machine-Learning-for-Building-Efficiency**](https://github.com/ZeLiu369/Machine-Learning-for-Building-Efficiency)  
+    Machine learning models for optimizing building energy efficiency.
+    
+- [**VoiceTrans**](https://github.com/ZeLiu369/VoiceTrans)  
+    A real-time voice translation system leveraging AI and NLP.
+    
 
+### 📊 Data Visualization
+
+- [**Canadian Aviation Safety Insights**](https://github.com/ZeLiu369/Data-Visualization-Canadian-Aviation-Safety-Insights)  
+    Data visualization project analyzing Canadian aviation safety statistics.
+    
+
+### 🎯 Computer Vision
+
+- [**Parking Lot Space Detection**](https://github.com/ZeLiu369/Computer_Version_Parking_Lot_Detection)  
+    AI-based computer vision system for detecting available parking spaces.
+    
+
+### 📝 Essays/Publications
+
+- **Comparative Analysis of Transfer Learning in Deep Learning Text-to-Speech Models on a Few-Shot, Low-Resource, Customized Dataset**  
+    [Read on Arxiv](https://arxiv.org/abs/2310.04982)
+    
+- **Enhancing Leg Odometry in Legged Robots with Learned Contact Bias: An LSTM Recurrent Neural Network Approach**  
+    [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10802731)
+    
+
+### 🌐 Full-Stack / Front-End
+
+- [**TravelPlace**](https://github.com/ZeLiu369/TravelPlace)  
+    A full-stack travel exploration app with React and backend services.
+    
+- [**React MeetUps**](https://github.com/ZeLiu369/React_MeetUps)  
+    A React-based meetup management platform.
+    
+- [**React Pizza Ordering**](https://github.com/ZeLiu369/React_PizzaOrding)  
+    A React-based pizza ordering web application.
+    
+
+### 🎮 Game Development
+
+- [**Planet Hopper**](https://github.com/ZeLiu369/Planet_Hopper)  
+    A space-themed platformer game.
+    
+
+### 🔍 Others
+
+_(More projects coming soon... 🚀)_
+
+***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
