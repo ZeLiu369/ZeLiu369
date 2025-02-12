@@ -8,36 +8,6 @@
 
 ## Project List
 
-### 🚀 ML/AI
-
-- [**Machine-Learning-for-Building-Efficiency**](https://github.com/ZeLiu369/Machine-Learning-for-Building-Efficiency)  
-    Machine learning models for optimizing building energy efficiency.
-    
-- [**VoiceTrans**](https://github.com/ZeLiu369/VoiceTrans)  
-    A real-time voice translation system leveraging AI and NLP.
-    
-
-### 📊 Data Visualization
-
-- [**Canadian Aviation Safety Insights**](https://github.com/ZeLiu369/Data-Visualization-Canadian-Aviation-Safety-Insights)  
-    Data visualization project analyzing Canadian aviation safety statistics.
-    
-
-### 🎯 Computer Vision
-
-- [**Parking Lot Space Detection**](https://github.com/ZeLiu369/Computer_Version_Parking_Lot_Detection)  
-    AI-based computer vision system for detecting available parking spaces.
-    
-
-### 📝 Essays/Publications
-
-- **Comparative Analysis of Transfer Learning in Deep Learning Text-to-Speech Models on a Few-Shot, Low-Resource, Customized Dataset**  
-    [Read on Arxiv](https://arxiv.org/abs/2310.04982)
-    
-- **Enhancing Leg Odometry in Legged Robots with Learned Contact Bias: An LSTM Recurrent Neural Network Approach**  
-    [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10802731)
-    
-
 ### 🌐 Full-Stack / Front-End
 
 - [**TravelPlace**](https://github.com/ZeLiu369/TravelPlace)  
@@ -49,13 +19,40 @@
 - [**React Pizza Ordering**](https://github.com/ZeLiu369/React_PizzaOrding)  
     A React-based pizza ordering web application.
     
+### 🚀 ML/AI
 
+- [**Machine-Learning-for-Building-Efficiency**](https://github.com/ZeLiu369/Machine-Learning-for-Building-Efficiency)  
+    Machine learning models for optimizing building energy efficiency.
+    
+- [**VoiceTrans**](https://github.com/ZeLiu369/VoiceTrans)  
+    A real-time voice translation system leveraging AI and NLP.
+    
+
+### 📝 Essays/Publications
+
+- **Comparative Analysis of Transfer Learning in Deep Learning Text-to-Speech Models on a Few-Shot, Low-Resource, Customized Dataset**  
+    [Read on Arxiv](https://arxiv.org/abs/2310.04982)
+    
+- **Enhancing Leg Odometry in Legged Robots with Learned Contact Bias: An LSTM Recurrent Neural Network Approach**  
+    [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10802731)
+    
+
+### 🎯 Computer Vision
+
+- [**Parking Lot Space Detection**](https://github.com/ZeLiu369/Computer_Version_Parking_Lot_Detection)  
+    AI-based computer vision system for detecting available parking spaces.
+    
+    
 ### 🎮 Game Development
 
 - [**Planet Hopper**](https://github.com/ZeLiu369/Planet_Hopper)  
     A space-themed platformer game.
-    
 
+### 📊 Data Visualization
+
+- [**Canadian Aviation Safety Insights**](https://github.com/ZeLiu369/Data-Visualization-Canadian-Aviation-Safety-Insights)  
+    Data visualization project analyzing Canadian aviation safety statistics.
+    
 ### 🔍 Others
 
 _(More projects coming soon... 🚀)_
