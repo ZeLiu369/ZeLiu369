@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeliu369" alt="zeliu369" /></a> </p>
 
+
+- 🔭 I’m currently working on [Machine-Learning-for-Building-Efficiency](https://github.com/ZeLiu369/Machine-Learning-for-Building-Efficiency)
+
+- 👯 I’m looking to collaborate on [VoiceTrans](https://github.com/ZeLiu369/VoiceTrans)
+
+- 🤝 I’m looking for help with [Data-Visualization-Canadian-Aviation-Safety-Insights](https://github.com/ZeLiu369/Data-Visualization-Canadian-Aviation-Safety-Insights)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zeliu369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeliu369" height="30" width="40" /></a>
